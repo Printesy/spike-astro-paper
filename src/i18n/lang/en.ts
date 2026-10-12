@@ -34,8 +34,7 @@ export default {
     allPosts: "All Posts",
   },
   footer: {
-    copyright: "Copyright",
-    allRightsReserved: "All rights reserved.",
+    copyright: "© Printesy test",
   },
   pages: {
     tagTitle: "Tag",
