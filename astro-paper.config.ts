@@ -3,8 +3,8 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    title: "AstroPaper SEO Blog",
+    description: "A fast, accessible Astro blog theme with SEO built in.",
     author: "Sat Naing",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
